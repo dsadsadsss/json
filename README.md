@@ -1,3 +1,3 @@
 ```
-https://raw.githubusercontent.com/dsadsadsss/json/main/code
+raw.githubusercontent.com/dsadsadsss/json/main/code
 ```
